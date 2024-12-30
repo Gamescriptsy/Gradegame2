@@ -1,0 +1,15 @@
+flask
+flask-sqlalchemy
+flask-login
+flask-migrate
+pyotp
+werkzeug
+Flask-Mail
+pymysql  # untuk koneksi MySQL
+cryptography  # untuk enkripsi MySQL
+python-dotenv  # untuk mengelola environment variables
+mysqlclient  # MySQL driver alternatif (lebih cepat dari pymysql)
+Flask-WTF  # untuk form handling dan CSRF protection
+passlib
+gunicorn
+mysql-connector-python
