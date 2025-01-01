@@ -1,15 +1,15 @@
 flask
-flask-sqlalchemy
-flask-login
-flask-migrate
+flask_sqlalchemy
+flask_login
+flask_migrate
 pyotp
 werkzeug
-Flask-Mail
+Flask_Mail
 pymysql  # untuk koneksi MySQL
 cryptography  # untuk enkripsi MySQL
 python-dotenv  # untuk mengelola environment variables
 mysqlclient  # MySQL driver alternatif (lebih cepat dari pymysql)
 Flask-WTF  # untuk form handling dan CSRF protection
 passlib
-gunicorn
+gunicorn flask
 mysql-connector-python
